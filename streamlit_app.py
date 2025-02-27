@@ -35,7 +35,6 @@ if ingredients_list:
 #if ingredients_list is not null: then do everything below this line that is indented.
     #st.write(ingredients_list)
     #st.text(ingredients_list)
-    
     ingredients_string = ''
 
     for fruit_chosen in ingredients_list:
